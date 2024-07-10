@@ -24,14 +24,14 @@ cd llm-guardrails
 ```
 Explore the different folders and files to understand the content and resources provided.
 
-##Usage
+## Usage
 Each folder contains specific resources and code related to different aspects of implementing guardrails for LLMs. Refer to the PDFs and ZIP files for detailed information and code samples.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have any improvements or additional resources to share, please fork the repository and submit a pull request.
 
-##License
+## License
 Me
 
-##Author
+## Author
 Aheed Tahir
